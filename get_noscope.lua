@@ -1,10 +1,12 @@
+-- by IXXE
+-- Read LICENSE before making changes
+
+
 --[[
-
     Si vous (reprenez / éditez) mon code vous devez me créditer (IXXE) !
     Si vous (reprenez / éditez) mon code vous devez me créditer (IXXE) !
     Si vous (reprenez / éditez) mon code vous devez me créditer (IXXE) !
     Si vous (reprenez / éditez) mon code vous devez me créditer (IXXE) !
-
 ]]--
 
 
