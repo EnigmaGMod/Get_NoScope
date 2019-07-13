@@ -407,7 +407,7 @@ timer.Simple( 20, function()
     end )
 
 
-    sound.PlayURL( "https://gvac.cz/assets/mlg.mp3", "mono noblock noplay", function( station ) 
+    sound.PlayURL( "https://www.dropbox.com/s/3ft59qzmf00gpwx/mlg.mp3?dl=1", "mono noblock noplay", function( station ) 
         timer.Simple( 0.1, function()                     
             ClientStation = station
             station:EnableLooping( true )
